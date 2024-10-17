@@ -7,7 +7,7 @@ Release:          1
 Summary:          Probe sequence data for microarrays of type drosophila2
 Group:            Sciences/Mathematics
 License:          LGPL
-URL:              http://bioconductor.org/packages/release/data/annotation/html/%{packname}.html
+URL:              https://bioconductor.org/packages/release/data/annotation/html/%{packname}.html
 Source0:          http://bioconductor.org/packages/release/data/annotation/src/contrib/drosophila2probe_2.12.0.tar.gz
 BuildArch:        noarch
 Requires:         R-core
